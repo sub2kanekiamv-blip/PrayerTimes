@@ -1,0 +1,6 @@
+{
+  "name": "SalahTime Live – Next Prayer Countdown & Global Salah Times",
+  "description": "Accurate live countdown in seconds until the next salah with global prayer times for Saudi Arabia, US, UK, Egypt, France, and all Muslim cities, synchronized with official Islamic authorities and prayertime.info.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
